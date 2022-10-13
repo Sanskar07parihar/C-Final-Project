@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Assignments\Fall 2021 Sem-2\C#\Final Project  C#\InventoryManagement.Models\bin\Debug\InventoryManagement.Models.dll.config
+C:\Users\Admin\Documents\Assignments\Fall 2021 Sem-2\C#\Final Project  C#\InventoryManagement.Models\bin\Debug\InventoryManagement.Models.dll
+C:\Users\Admin\Documents\Assignments\Fall 2021 Sem-2\C#\Final Project  C#\InventoryManagement.Models\bin\Debug\InventoryManagement.Models.pdb
+C:\Users\Admin\Documents\Assignments\Fall 2021 Sem-2\C#\Final Project  C#\InventoryManagement.Models\obj\Debug\InventoryManagement.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Assignments\Fall 2021 Sem-2\C#\Final Project  C#\InventoryManagement.Models\obj\Debug\InventoryManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Assignments\Fall 2021 Sem-2\C#\Final Project  C#\InventoryManagement.Models\obj\Debug\InventoryManagement.Models.dll
+C:\Users\Admin\Documents\Assignments\Fall 2021 Sem-2\C#\Final Project  C#\InventoryManagement.Models\obj\Debug\InventoryManagement.Models.pdb
